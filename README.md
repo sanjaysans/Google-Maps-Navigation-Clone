@@ -3,11 +3,7 @@ Simple UI built using HTML and JS with the help of Mapbox to create a clone of g
 
 ## Working Demo
 <div>
-    <video poster="https://raw.githubusercontent.com/sanjaysans/Google-Maps-Navigation-Clone/main/resources/preview.PNG" width="618" height="347" controls preload> 
-        <source src="https://raw.githubusercontent.com/sanjaysans/Google-Maps-Navigation-Clone/main/resources/screen-capture.webm" media="only screen and (min-device-width: 568px)"></source> 
-        <source src="https://raw.githubusercontent.com/sanjaysans/Google-Maps-Navigation-Clone/main/resources/screen-capture.webm" media="only screen and (max-device-width: 568px)"></source> 
-        <source src="https://raw.githubusercontent.com/sanjaysans/Google-Maps-Navigation-Clone/main/resources/screen-capture.webm"></source> 
-    </video>
+    <img src="resources/demo.gif" alt="Demo GIF">
 </div>
 
 ## Setup
